@@ -1,6 +1,6 @@
 # UNDP / UN Proposal Package (Gaza)
 
-This folder contains a UN-style proposal package:
+This repository contains a UN-style proposal package:
 - Full integrated proposal (Markdown)
 - Presentation-ready PDF
 
@@ -12,6 +12,5 @@ This folder contains a UN-style proposal package:
 - Designed for low-water, low-tech recovery hubs.
 - Non-political, humanitarian and early-recovery framing.
 
-## UNDP / UN Package
-- Full Proposal (Markdown): `UNDP-UN_Full_Proposal_Gaza_Rubble_Plastic.md`
-- Full Proposal (PDF): `UNDP-UN_Full_Proposal_Gaza_Rubble_Plastic.pdf`
+## Disclaimer
+This is an independent concept note / proposal draft and is not an official UNDP/UN document.
